@@ -1,0 +1,16 @@
+# Obsidian workspace settings and cache
+.obsidian/
+.trash/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Backup or temp files
+*.tmp
+*.bak
+~$*
+
+# Optional: ignore attachments if you don't want them in git
+# attachments/
+
